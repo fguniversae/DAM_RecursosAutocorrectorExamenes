@@ -1,2 +1,2 @@
-# DAM_RecursosAutocorrectorExamenes
-Recursos Autocorrector de Examenes para DAM 2024
+# Universae_RecursosDAM2024
+Recursos para Practicas de DAM 2024
